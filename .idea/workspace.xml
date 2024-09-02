@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c92f61b-b077-4025-9758-0010683791a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Prodigy_ML_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/House_Price_Predection.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
-    </list>
+    <list default="true" id="9c92f61b-b077-4025-9758-0010683791a1" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,8 +86,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725278107654</updated>
-      <workItem from="1725280859373" duration="1323000" />
+      <workItem from="1725280859373" duration="2083000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1725282993739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725282993739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
